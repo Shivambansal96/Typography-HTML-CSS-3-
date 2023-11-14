@@ -1,0 +1,29 @@
+
+div {
+    display: flex;
+    justify-content: center;
+}
+
+#heading {
+    max-width: 40%;
+    margin: auto;
+    margin-right: 34%;
+}
+
+.txt {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.not_black {
+    color: rgba(0,0,0,0.6);
+}
+
+#essay, #lower, #last_line {
+    max-width: 30%;
+    margin: auto;
+}
+
+hr {
+    border: 2px solid;
+    border-color: rgba(0,0,0,0.7);
+}
